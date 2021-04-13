@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hj26G6/YfvI+SKXVYiyFZWZ/FCxkoPZFQs/ZE0FjurbNhLyDjs5/jjskhBVNfuLaqfLASmIMNvsJAVBHyjvuaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\speed\\source\\repos\\ScreenKRA\\ScreenKRA\\ScreenKRA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\speed\\.nuget\\packages\\magick.net-q16-anycpu\\7.23.3\\magick.net-q16-anycpu.7.23.3.nupkg.sha512",
+    "C:\\Users\\speed\\.nuget\\packages\\magick.net.core\\6.1.3\\magick.net.core.6.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

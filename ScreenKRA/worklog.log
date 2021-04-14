@@ -1,0 +1,54 @@
+Set directory to look for `*kra` files:
+c:/mmc
+[+] Work directory: c:\mmc
+Set directory to results:
+c:/tmp
+[+] Created the directory: c:\tmp
+[+] Created the directory: c:\tmp\mmc
+[+] Created the directory: c:\tmp\mmc\1242X2208(1242x2208)
+        [+] Created a new screen: c:\tmp\mmc\1242X2208(1242x2208)\0.png
+        [+] Created a new screen: c:\tmp\mmc\1242X2208(1242x2208)\1.png
+        [+] Created a new screen: c:\tmp\mmc\1242X2208(1242x2208)\2.png
+        [+] Created a new screen: c:\tmp\mmc\1242X2208(1242x2208)\3.png
+        [+] Created a new screen: c:\tmp\mmc\1242X2208(1242x2208)\4.png
+
+width: -52/6418, remained: 6470
+
+[+] Created the directory: c:\tmp\mmc\examples
+[+] Created the directory: c:\tmp\mmc\examples\2208(1242x2208)
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\0.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\1.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\2.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\3.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\4.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\5.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2208(1242x2208)\6.png
+
+width: -1058/8000, remained: 9058
+
+[+] Created the directory: c:\tmp\mmc\examples\2688(1242x2688)
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\0.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\1.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\2.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\3.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\4.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\5.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2688(1242x2688)\6.png
+
+width: -1058/8000, remained: 9058
+
+[+] Created the directory: c:\tmp\mmc\examples\2732(2732x2732)
+        [+] Created a new screen: c:\tmp\mmc\examples\2732(2732x2732)\0.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2732(2732x2732)\1.png
+        [+] Created a new screen: c:\tmp\mmc\examples\2732(2732x2732)\2.png
+
+width: -961/8000, remained: 8961
+
+[+] Created the directory: c:\tmp\mmc\repo
+        [+] Created a new screen: c:\tmp\mmc\repo\aaaaa.png
+[INFO] The C:/Users/speed/AppData/Local/Temp/magick-_IhMBmN_QNl4AoaNxJPDRN3FnjRqp9XT image doesn't contain the heights needed
+        [+] Created a new screen: c:\tmp\mmc\repo\other.png
+[INFO] The C:/Users/speed/AppData/Local/Temp/magick-zA0PS8d8UhT80f_zuUqYSWWf_gxtcGXs image doesn't contain the heights needed
+----------------------------------
+Creating screenshots was finished!
+----------------------------------
